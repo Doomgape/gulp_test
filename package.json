@@ -1,0 +1,25 @@
+{
+  "name": "GulpTest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "del": "^3.0.0",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jquery": "^1.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "node-sass": "^4.5.3"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
